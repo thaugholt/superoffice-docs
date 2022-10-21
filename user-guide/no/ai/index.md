@@ -1,7 +1,7 @@
 ---
 uid: help-en-ai
-title: AI services
-description: AI services
+title: AI tjenester
+description: AI tjenester
 author: SuperOffice RnD
 so.date: 06.29.2022
 keywords: AI
@@ -9,7 +9,7 @@ so.topic: concept
 language: no
 ---
 
-# AI services
+# AI tjenester
 
 > [!NOTE]
 > The functions described in this topic require a separate licence for AI services. SuperOffice AI is cloud only and is a separate add-on.

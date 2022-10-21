@@ -1,16 +1,15 @@
 ---
-title: Addendum to SuperOffice Software Maintenance Agreement
+title: Vedlegg to SuperOffice Software Maintenance Agreement
 uid: ssma-addendum
-description: Addendum to SuperOffice Software Maintenance Agreement
+description: Vedlegg to SuperOffice Software Maintenance Agreement
 author: Bergfrid Dias
 so.date: 09.15.2022
 keywords: SSMA, maintenance, agreement
 so.topic: reference
-
-so.lang: en
+so.lang: sv
 ---
 
-# Addendum to SuperOffice Software Maintenance Agreement
+# Vedlegg to SuperOffice Software Maintenance Agreement
 
 This addendum is related to new features in SuperOffice 8. To activate these new features, SuperOffice needs a consent, as detailed below, from a Customer Representative authorized to grant such consent.
 

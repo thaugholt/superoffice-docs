@@ -1,6 +1,6 @@
 ---
 uid: help-en-ai
-title: AI services
+title: AI tjænster
 description: AI services
 author: SuperOffice RnD
 so.date: 06.29.2022
