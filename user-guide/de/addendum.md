@@ -1,7 +1,7 @@
 ---
-title: Addendum to SuperOffice Software Maintenance Agreement
+title: Verkaufen to SuperOffice Software Maintenance Agreement
 uid: ssma-addendum
-description: Addendum to SuperOffice Software Maintenance Agreement
+description: Verkaufen to SuperOffice Software Maintenance Agreement
 author: Bergfrid Dias
 so.date: 09.15.2022
 keywords: SSMA, maintenance, agreement

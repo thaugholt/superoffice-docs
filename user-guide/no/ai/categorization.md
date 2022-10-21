@@ -1,7 +1,7 @@
 ---
 uid: help-en-ai-categorization
-title: AI categorization
-description: AI categorization
+title: AI kategorisering
+description: AI kategorisering
 author: SuperOffice RnD
 so.date: 06.29.2022
 keywords: AI
@@ -9,7 +9,7 @@ so.topic: concept
 language: no
 ---
 
-# Categorization
+# kategorisering
 
 This feature allows you to train the system to suggest categories for requests, according to the text content related to requests. When a support agent opens a new request, there will be a suggested category in the footer of the request. The support agent can then click the category link to update the request with the suggested category. This means time saved, since your support team will not have to read through the request to categorize manually.
 
