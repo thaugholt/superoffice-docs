@@ -1,7 +1,7 @@
 ---
-uid: help-en-ai-text-analysis
-title: AIext analysis
-description: AI text analysis
+uid: help-no-ai-text-analysis
+title: AI tekst analyse
+description: AI text analyse
 author: SuperOffice RnD
 so.date: 06.29.2022
 keywords: AI
@@ -9,7 +9,7 @@ so.topic: concept
 language: no
 ---
 
-# Text analysis
+# Tekst analyse
 
 Increase globalization by detecting and translating foreign languages in requests. Your customer support agents can select to translate message content in unfamiliar languages, from the **Requests** screen in SuperOffice Service.
 

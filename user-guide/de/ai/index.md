@@ -9,7 +9,7 @@ so.topic: concept
 language: de
 ---
 
-# AI services
+# AI schnell schnell
 
 > [!NOTE]
 > The functions described in this topic require a separate licence for AI services. SuperOffice AI is cloud only and is a separate add-on.
