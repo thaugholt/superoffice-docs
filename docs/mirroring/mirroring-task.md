@@ -56,6 +56,9 @@ Customers can add custom user preferences to control database mirroring behavior
 |BatchSize          | Used to control how many bytes to send per request.         | 1000000         |
 |SkipTable          | Comma seperated list of tables that should not be mirrored. |                 |
 
+From version 10.1.8 these may be edited directly in Settings and Maintenance client
+![image](https://user-images.githubusercontent.com/22498774/199280384-c645fddf-84b4-4c40-b97c-2e50f335e727.png)
+
 See the [Skip Tables][4] section to understand how to add the Mirroring prefences into SuperOffice.
 
 ## Batches
