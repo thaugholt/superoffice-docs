@@ -8,6 +8,7 @@ so.topic: howto
 so.envir: cloud
 so.client: online
 ---
+# Obsolete from 10.1.8
 
 # Add tables to skip mirroring
 
